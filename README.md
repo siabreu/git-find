@@ -1,4 +1,4 @@
-# Git Find
+# Git Find ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 Uma aplicação em React para pesquisar (fetch) Perfis e Repostitórios de usuários do GitHub.
 
